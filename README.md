@@ -9,6 +9,18 @@ Este es mi portafolio realizado en Java con la metodología MVC (Model View Cont
 Este proyecto tiene como finalidad, desarrollar una aplicacion para empresas de viajes. Se pueden crear paquetes turisticos, en base a la necesidad del consumidor, lo que permite vender y llevar un registro de ventas.
 Base de datos MySql.
 
+## Libraris 
+
+Three libraries were used in this project.
+jcalendar-1.4 
+mariadb-java-client-3.1.4
+pdfbox-app-3.0.0
+
+En este proyecto se utilizó tres librerias.
+jcalendar-1.4 
+mariadb-java-client-3.1.4
+pdfbox-app-3.0.0
+
 ## Autor 
 ** Levi Estefano Baumann Mendia **
 
